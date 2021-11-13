@@ -1,0 +1,14 @@
+.nav-bar{
+    background-color: #c4c4c4;
+    display: flex;
+    justify-content: space-around;
+
+}
+.nav-bar-items{
+    display: flex;
+    /* justify-content: space-around; */
+}
+.img-1{
+    width: 50px;
+    border-radius: 50%;
+}
