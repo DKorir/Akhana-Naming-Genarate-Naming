@@ -1,7 +1,7 @@
 // users greeting
 function getDetails(){
         var users=document.getElementById("user");
-        alert("Hello  " + user.value);
+        // alert("Hello  " + user.value);
     
     //date description
     
@@ -17,12 +17,6 @@ function getDetails(){
     if (myMonth.value<1 || myMonth.value>12){
         alert("Please input values between 1 and 12 ");
     } 
-    
-    
-    
-    
-    
-    
     
     //days of the week
     
