@@ -1,22 +1,22 @@
 // users greeting
 function getDetails(){
-    //     var users=document.getElementById("user");
-    //     alert("Hello  " + user.value);
+        var users=document.getElementById("user");
+        alert("Hello  " + user.value);
     
-    // //date description
+    //date description
     
-    // var myDate=document.getElementById("date");
-    // if (myDate.value<1 || myDate.value>31){
-    //     alert("Please input values between 1 and 31 ");
-        // myDate.value="";
-    // } 
+    var myDate=document.getElementById("date");
+    if (myDate.value<1 || myDate.value>31){
+        alert("Please input values between 1 and 31 ");
+        myDate.value="";
+    } 
     
     //month selection
     
-    // var myMonth=document.getElementById("month");
-    // if (myMonth.value<1 || myMonth.value>12){
-    //     alert("Please input values between 1 and 12 ");
-    // } 
+    var myMonth=document.getElementById("month");
+    if (myMonth.value<1 || myMonth.value>12){
+        alert("Please input values between 1 and 12 ");
+    } 
     
     
     
@@ -66,14 +66,14 @@ function getDetails(){
     var female=["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"];
     
     if(gender1.checked){
-        alert("Your akan name is "+ male[results] + " and was born on " + days[results] )
+        alert("Your akan name is "+ male[results] + " and was born on " + days[results])
     }
     else if(gender2.checked){
-        alert("Your akan name is "+ female[results] + " and was born on " + days[results] )
+        alert("Your akan name is "+ female[results] + " and was born on " + days[results])
     
     
     
     
     }
     
-    }
+}
