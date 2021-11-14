@@ -1,3 +1,6 @@
+*{
+    font-family: monospace;
+}
 .nav-bar{
     background-color: #c4c4c4;
     display: flex;
