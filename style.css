@@ -31,7 +31,11 @@
     /* background-color: #181EAF; */
 }
 .bg-blue{
+<<<<<<< HEAD
     background-color:#181EAF ;
+=======
+    background-color: #181EAF;
+>>>>>>> modify style.css file with class description for padding, border radius text-aligning margins left and right
     padding: 20px;
 }
 .name{
@@ -51,18 +55,30 @@ form{
 }
 .sub-head-name{
     text-align: center;
+<<<<<<< HEAD
     color: #181EAF;
     background-color: darkgray;
     border-radius: 4px;
     margin-left: 100px;
     margin-right: 100px;
+=======
+    background-color: darkgray;
+    margin-right: 100px;
+    margin-left: 100px;
+    border-radius: 4px;
+>>>>>>> modify style.css file with class description for padding, border radius text-aligning margins left and right
 }
 .akan-generator{
     text-align: center;
     background-color: darkgray;
+<<<<<<< HEAD
     margin-left: 100px;
     margin-right: 100px;
     /* color: #181EAF; */
+=======
+    margin-right: 100px;
+    margin-left: 100px;
+>>>>>>> modify style.css file with class description for padding, border radius text-aligning margins left and right
     border-radius: 4px;
 }
 .bg-darkgray{
@@ -75,6 +91,7 @@ form{
 .sub-head{
     text-align: center;
     color: #181EAF;
+<<<<<<< HEAD
 }
 .description{
     text-align: center;
@@ -139,6 +156,14 @@ form{
 }
 .img-4{
     width: 200px;
+=======
+>>>>>>> modify style.css file with class description for padding, border radius text-aligning margins left and right
 }
-
-
+.description{
+    text-align: center;
+    background-color: darkgray;
+    margin-right: 100px;
+    margin-left: 100px;
+    border-radius: 4px;
+    padding: 20px;
+}
