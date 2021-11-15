@@ -22,11 +22,23 @@
 .landing-page{
     /* background-color: #181EAF; */
 }
+.bg-blue{
+    background-color: #181EAF;
+    padding: 20px;
+}
 .name{
     text-align: center;
+    background-color: darkgray;
+    margin-right: 100px;
+    margin-left: 100px;
+    border-radius: 4px;
 }
 .akan-generator{
     text-align: center;
+    background-color: darkgray;
+    margin-right: 100px;
+    margin-left: 100px;
+    border-radius: 4px;
 }
 .bg-darkgray{
     background-color: darkgray;
@@ -36,6 +48,13 @@
 } */
 .sub-head{
     text-align: center;
+    color: #181EAF;
 }
-
-
+.description{
+    text-align: center;
+    background-color: darkgray;
+    margin-right: 100px;
+    margin-left: 100px;
+    border-radius: 4px;
+    padding: 20px;
+}
