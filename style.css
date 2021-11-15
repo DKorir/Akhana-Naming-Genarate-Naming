@@ -15,3 +15,27 @@
     width: 50px;
     border-radius: 50%;
 }
+
+
+
+
+.landing-page{
+    /* background-color: #181EAF; */
+}
+.name{
+    text-align: center;
+}
+.akan-generator{
+    text-align: center;
+}
+.bg-darkgray{
+    background-color: darkgray;
+}
+/* .align-centre{
+    text-align: center;
+} */
+.sub-head{
+    text-align: center;
+}
+
+
