@@ -18,24 +18,127 @@
 
 
 
+.ghanian{
+    text-align: center;
+    background-color: darkgray;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 4px;
+
+}
 
 .landing-page{
     /* background-color: #181EAF; */
 }
+.bg-blue{
+    background-color:#181EAF ;
+    padding: 20px;
+}
 .name{
+    /* text-align: center; */
+    /* background-color: darkgray; */
+    /* margin-left: 100px; */
+    /* margin-right: 100px; */
+    /* color: #181EAF; */
+    /* border-radius: 4px; */
+    /* margin-right: 250px; */
+    /* margin-left: 250px; */
+}
+form{
+    margin-left: 100px;
+    margin-right: 100px;
+    color: darkmagenta;
+}
+.sub-head-name{
     text-align: center;
+    color: #181EAF;
+    background-color: darkgray;
+    border-radius: 4px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 .akan-generator{
     text-align: center;
+    background-color: darkgray;
+    margin-left: 100px;
+    margin-right: 100px;
+    /* color: #181EAF; */
+    border-radius: 4px;
 }
 .bg-darkgray{
-    background-color: darkgray;
+    background-color:darkgray ;
+    border-radius: 4px;
 }
 /* .align-centre{
     text-align: center;
 } */
 .sub-head{
     text-align: center;
+    color: #181EAF;
+}
+.description{
+    text-align: center;
+    background-color: darkgray;
+    border-radius:4px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+
+}
+.future-events{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: darkgray;
+    /* flex-direction: row; */
+    padding: 20px;
+}
+.head{
+    text-align: center;
+    color: #181EAF;
+}
+.collumn-contact{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+.call-phone{
+    display: flex;
+    justify-content: space-between;
+}
+.mail{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.mail-icon{
+    width: 30px;
+    border-radius: 50%;
+}
+.call-icon{
+    width: 30px;
+    border-radius: 50%;
+}
+.contact-content{
+    border-style: dashed;
+    border-color: darkmagenta;
+    border-top: none;
+    border-bottom: none;
+    border-left: none;
+    padding-right: 50px;
+    
+}
+.message{
+    display: flex;
+}
+.message .input{
+    border-radius: 4px;
+}
+.button-icon{
+    border-radius: 50%;
+    width: 30px;
+}
+.img-4{
+    width: 200px;
 }
 
 
