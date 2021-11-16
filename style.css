@@ -59,41 +59,26 @@ form{
 }
 .sub-head-name{
     text-align: center;
-<<<<<<< HEAD
-<<<<<<< HEAD
     color: #181EAF;
     background-color: darkgray;
     border-radius: 4px;
     margin-left: 100px;
     margin-right: 100px;
-=======
-=======
->>>>>>> c84edc6e0b28b70baa3b1b1860ff7be2611a3c18
     background-color: darkgray;
     margin-right: 100px;
     margin-left: 100px;
     border-radius: 4px;
-<<<<<<< HEAD
->>>>>>> modify style.css file with class description for padding, border radius text-aligning margins left and right
-=======
->>>>>>> c84edc6e0b28b70baa3b1b1860ff7be2611a3c18
 }
 .akan-generator{
     text-align: center;
     background-color: darkgray;
-<<<<<<< HEAD
-<<<<<<< HEAD
     margin-left: 100px;
     margin-right: 100px;
     /* color: #181EAF; */
-=======
     margin-right: 100px;
     margin-left: 100px;
->>>>>>> modify style.css file with class description for padding, border radius text-aligning margins left and right
-=======
     margin-right: 100px;
     margin-left: 100px;
->>>>>>> c84edc6e0b28b70baa3b1b1860ff7be2611a3c18
     border-radius: 4px;
 }
 .bg-darkgray{
@@ -106,15 +91,10 @@ form{
 .sub-head{
     text-align: center;
     color: #181EAF;
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> c84edc6e0b28b70baa3b1b1860ff7be2611a3c18
 }
 .description{
     text-align: center;
     background-color: darkgray;
-<<<<<<< HEAD
     border-radius:4px;
     margin-left: 50px;
     margin-right: 50px;
@@ -175,14 +155,10 @@ form{
 }
 .img-4{
     width: 200px;
-=======
->>>>>>> modify style.css file with class description for padding, border radius text-aligning margins left and right
 }
 .description{
     text-align: center;
     background-color: darkgray;
-=======
->>>>>>> c84edc6e0b28b70baa3b1b1860ff7be2611a3c18
     margin-right: 100px;
     margin-left: 100px;
     border-radius: 4px;
