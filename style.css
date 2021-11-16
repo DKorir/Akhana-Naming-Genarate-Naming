@@ -15,8 +15,15 @@
     width: 50px;
     border-radius: 50%;
 }
-
-
+.ghanian h1{
+    background-color: darkgray;
+    color: #181EAF;
+    border-radius: 4px;
+}
+.bg-blue{
+    background-color: #181EAF;
+    padding: 20px;
+}
 
 .ghanian{
     text-align: center;
@@ -24,50 +31,40 @@
     margin-left: 100px;
     margin-right: 100px;
     border-radius: 4px;
-
 }
-
-.landing-page{
-    /* background-color: #181EAF; */
-}
-.bg-blue{
-<<<<<<< HEAD
-<<<<<<< HEAD
+/* .bg-blue{
     background-color:#181EAF ;
-=======
     background-color: #181EAF;
->>>>>>> modify style.css file with class description for padding, border radius text-aligning margins left and right
-=======
     background-color: #181EAF;
->>>>>>> c84edc6e0b28b70baa3b1b1860ff7be2611a3c18
     padding: 20px;
-}
-.name{
-    /* text-align: center; */
-    /* background-color: darkgray; */
-    /* margin-left: 100px; */
-    /* margin-right: 100px; */
-    /* color: #181EAF; */
-    /* border-radius: 4px; */
-    /* margin-right: 250px; */
-    /* margin-left: 250px; */
-}
+} */
 form{
     margin-left: 100px;
     margin-right: 100px;
     color: darkmagenta;
+
+}
+.form-border{
+    padding: 20px;
+    border-style: solid;
+    border-bottom:none ;
+    border-right:none ;
+    border-left:none ;
+}
+.events{
+    border-style: solid;
+    border-bottom:none ;
+    border-right:none ;
+    border-left:none ;
+    border-color: black;
 }
 .sub-head-name{
     text-align: center;
     color: #181EAF;
     background-color: darkgray;
     border-radius: 4px;
-    margin-left: 100px;
-    margin-right: 100px;
-    background-color: darkgray;
     margin-right: 100px;
     margin-left: 100px;
-    border-radius: 4px;
 }
 .akan-generator{
     text-align: center;
@@ -91,6 +88,15 @@ form{
 .sub-head{
     text-align: center;
     color: #181EAF;
+    border-style: solid;
+    border-top:none ;
+    border-right:none ;
+    border-left:none ;
+    border-color: black;
+    
+}
+.about{
+    padding: 20px;
 }
 .description{
     text-align: center;
@@ -107,6 +113,7 @@ form{
     background-color: darkgray;
     /* flex-direction: row; */
     padding: 20px;
+
 }
 .head{
     text-align: center;
@@ -155,6 +162,12 @@ form{
 }
 .img-4{
     width: 200px;
+    cursor: pointer;
+    transform: scale(1);
+    transform: 0.3s ease-in-out;
+}
+.img-4:hover{
+    transform: scale(0.8);
 }
 .description{
     text-align: center;
