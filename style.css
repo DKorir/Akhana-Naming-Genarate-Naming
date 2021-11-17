@@ -185,3 +185,7 @@ form{
 .collumn-contact{
     padding: 20px;
 }
+.copyright p{
+    text-align: center;
+    font-style: inherit;
+}
