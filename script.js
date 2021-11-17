@@ -1,7 +1,7 @@
 // users greeting
 function myFunction(){
-        var users=document.getElementById("user");
-        alert("Hello  " + user.value);
+        // var users=document.getElementById("user");
+        // alert("Hello  " + user.value);
     
     //date description
     
@@ -53,6 +53,7 @@ function myFunction(){
     
     
     //days of week & akan name
+    var users=document.getElementById("user");
     var days=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
     
     var male=["Kwame","Kwasi","Kwadwo","Kwabena","Kwaku","Yaw","Kofi"];
@@ -60,10 +61,10 @@ function myFunction(){
     var female=["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"];
     
     if(gender1.checked){
-        alert("Your akan name is "+ male[results] + " and was born on " + days[results])
+        alert("Hello " + user.value + " Your akan name is "+ male[results] + " and was born on " + days[results])
     }
     else if(gender2.checked){
-        alert("Your akan name is "+ female[results] + " and was born on " + days[results])
+        alert("Hello " + user.value + " Your akan name is "+ female[results] + " and was born on " + days[results])
     
     
     
