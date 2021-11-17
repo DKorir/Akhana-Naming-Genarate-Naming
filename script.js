@@ -1,7 +1,7 @@
 // users greeting
-function getDetails(){
+function myFunction(){
         var users=document.getElementById("user");
-        // alert("Hello  " + user.value);
+        alert("Hello  " + user.value);
     
     //date description
     
