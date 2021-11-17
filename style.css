@@ -1,16 +1,21 @@
 *{
     font-family: monospace;
 }
-.nav-bar{
+.mynav{
     background-color: #c4c4c4;
     display: flex;
     justify-content: space-around;
-
+    /* flex-direction: row; */
 }
-.nav-bar-items{
-    display: flex;
+.mynav li{
+    text-transform: uppercase;
+    /* text-decoration: none; */
+    /* color: #181EAF; */
+}
+/* .nav-bar-items{ */
+    /* display: flex; */
     /* justify-content: space-around; */
-}
+/* } */
 .img-1{
     width: 50px;
     border-radius: 50%;
@@ -175,5 +180,8 @@ form{
     margin-right: 100px;
     margin-left: 100px;
     border-radius: 4px;
+    padding: 20px;
+}
+.collumn-contact{
     padding: 20px;
 }
